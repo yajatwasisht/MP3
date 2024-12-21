@@ -1,0 +1,3 @@
+[submodule "MP3"]
+    path = MP3
+    url = https://github.com/yajatwasisht/MP3.git
